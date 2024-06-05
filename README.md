@@ -1,5 +1,9 @@
 This is a notebook concerning the crude and age-standardised death rate for chronic obstructive pulmonary disease (COPD) in both the United States and Uganda in 2019.
 
+Chronic obstructive pulmonary disease (COPD), according to the NHS, is the name for a group of lung conditions that cause breathing difficulties, including emphysema (damage to the air sacs in the lungs), and chronic bronchitis (long-term inflammation of the airways).
+
+The crude and age-standardised death rate are two different ways of calculating the death rate of a disease. The crude death rate is the actual death rate as a proportion of the total population of a country. The age-standardised death rate is the death rate adjusted to a predetermined makeup of population ages, as defined in a WHO standard (Data source 2). This means that countries have the same proportions of each age range, and so any age range disproportionately affected (usually older people) equally affect the final death rate, meaning we can more reliably compare the death rates between countries.
+
 To calculate the crude death rate, I have multiplied the percentage population of each age group by its respective death rate and summed the answers for both the USA and Uganda data. To calculate the age-standardised death rates, I did the same, but instead using the WHO World Standard population percentages rather than using their actual population.
 
 Data Sources:
